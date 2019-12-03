@@ -2,5 +2,6 @@ class pruebaClass{
 
     init{
 
+
     }
 }
